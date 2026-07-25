@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  * @file RazeCityProject_Icons.xml
+  * @brief Connects custom project tags to pre-existing texture atlases in base game assets.
+  * @author Legandy
+  -->
+<GameData>
+	<IconDefinitions>
+		<!-- Raze City Graphic Mapping (Uses Settler Unit Icon Texture Resource) -->
+		<Row Name="ICON_PROJECT_LGY_RCP_RAZE_CITY" 		Atlas="ICON_ATLAS_UNITS" 		Index="0"/>
+		
+		<!-- Abandon City Graphic Mapping (Uses Carnival Project Icon Texture Resource) -->
+		<Row Name="ICON_PROJECT_LGY_RCP_ABANDON_CITY" 	Atlas="ICON_ATLAS_PROJECTS" 	Index="10"/>
+	</IconDefinitions>
+</GameData>
