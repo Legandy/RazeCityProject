@@ -1,17 +1,17 @@
 # Civilization 6 - Raze City Project Mod
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/RazeCityProject/main/.site\icon.jpg" width="300" height="300">
 
-## DOWNLOADS:
+## Downloads:
 [Nexus Mods][nm]
 [Steam Workshop][sw]
 
-## DESCRIPTION
+## Description:
 Adds an Abandon/Raze City Project to each owned city
 
-## ABANDON CITY PROJECT:
+## Abandon City Project:
 The owned city will be converted to a Free City.
 
-## RAZE CITY PROJECT:
+## Raze City Project:
 The owned city will be razed and converted into a Settler.
 
 

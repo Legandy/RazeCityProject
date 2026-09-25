@@ -1,17 +1,17 @@
 # Civilization 6 - Stadtabriss Projekt Mod
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/RazeCityProject/main/.site\icon.jpg" width="300" height="300">
 
-## DOWNLOADS:
+## Downloads:
 [Nexus Mods][nm]
 [Steam Workshop][sw]
 
-## BESCHREIBUNG
+## Beschreibung:
 Fügt ein Stadtaufgabe/Stadtabriss Projekt zu jeder Stadt in Besitz hinzu.
 
-## STADTAUFGABE PROJEKT:
+## Stadtaufgabe Projekt:
 Die eigene Stadt wird in eine freie Stadt umgewandelt.
 
-## STADTABRISS PROJEKT:
+## Stadtabriss Projekt:
 Reißt die eigene Stadt nieder und wandelt die Stadt in einen Siedler um.
 
 
