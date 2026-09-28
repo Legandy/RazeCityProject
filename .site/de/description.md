@@ -1,5 +1,5 @@
 # Civilization 6 - Stadtabriss Projekt Mod
-<p align="center"><img src="https://raw.githubusercontent.com/Legandy/RazeCityProject/main/.site\icon.jpg" width="300" height="300">
+<p align="center"><img src="https://raw.githubusercontent.com/Legandy/RazeCityProject/main/.site/icon.jpg" width="300" height="300">
 
 ## Downloads:
 [Nexus Mods][nm]
